@@ -1,3 +1,5 @@
+https://docs.microsoft.com/en-us/azure/devops/pipelines/create-first-pipeline?toc=%2Fazure%2Fdevops%2Fget-started%2Ftoc.json&bc=%2Fazure%2Fdevops%2Fget-started%2Fbreadcrumb%2Ftoc.json&view=azure-devops&tabs=javascript%2Cyaml%2Cbrowser%2Ctfs-2018-2
+
 # Sample NodeJS application for Azure Pipelines docs
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
